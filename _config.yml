@@ -16,11 +16,7 @@ url                      : https://kelseyisman.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kelseyisman/kelseyisman.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "kelsey_square"
   name             : "Kelsey Isman"
   pronouns         : "she/her"  
@@ -34,11 +30,10 @@ author:
   orcid            : "https://orcid.org/0009-0004-3414-9337"
 
   # Repositories and software development
-
   github           : "kelseyisman"
  
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with your Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -46,9 +41,7 @@ author:
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
-
   linkedin         : "https://www.linkedin.com/in/kelseyisman/"
-
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -58,9 +51,6 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-author: 
-  name: "Kelsey Isman"
-  avatar: "kelsey_square.HEIC"
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
