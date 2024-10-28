@@ -195,6 +195,12 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      permalink: /about/
   # _posts
   - scope:
       path: ""
