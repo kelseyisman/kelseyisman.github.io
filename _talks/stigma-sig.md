@@ -11,4 +11,3 @@ layout: talk
 
 Keynote talk at the 2023 National Institutes of Health Stigma Scientific Interest Group Annual Symposium 
 [View Slides](../files/stigma-sig.pdf)
----
