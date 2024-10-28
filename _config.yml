@@ -17,7 +17,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kelseyisman/kelseyisman.github.io"
 
 author:
-  avatar           : "kelsey_square.HEIC"
+  avatar           : "kelsey_square.jpg"
   name             : "Kelsey Isman"
   pronouns         : "she/her"  
   bio              : "Postbaccalaureate IRTA Fellow at the National Institute on Drug Abuse in the Technology and Translational Research Unit"
