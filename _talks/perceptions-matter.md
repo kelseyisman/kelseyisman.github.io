@@ -2,7 +2,7 @@
 title: "Perceptions Matter: Stigma, Mental Health, and Drug Treatment Outcomes"
 collection: talks
 type: "Talk"
-permalink: /_talks/perceptions-matter
+permalink: /_talks/perceptions-matter.md
 date: "2022-10-01"
 location:'Howard University International Conference on Stigma 2022, Washington, D.C.'
 citation: 'Isman, K., Giorgi, S., Ellis, J., Huhn, A., Liu, T., Curtis, B. (2024). &quot;Perceptionss Matter: Stigma, Mental Health, and Drug Treatment Ouctomes&quot'
