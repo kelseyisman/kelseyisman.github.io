@@ -37,6 +37,10 @@ layout: default
         {% endif %}
         {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}} {% endif %}
 
+        {% if page.citation %}
+          <p class="page__citation"><strong>Suggested Citation:</strong> {{ page.citation }}</p>
+        {% endif %}
+
         </header>
       {% endunless %}
 
@@ -74,16 +78,5 @@ layout: default
         {% endfor %}
       </div>
     </div>
-
-  <div class="talk-details">
-  <h2>{{ page.title }}</h2>
-  <p><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
-  <p><strong>Location:</strong> {{ page.location | join: ", " }}</p>
-  {% if page.citation %}
-    <p><strong>Citation:</strong> {{ page.citation }}</p>
-  {% endif %}
-  <p>{{ content }}</p>
-</div>
-
   {% endif %}
 </div>
