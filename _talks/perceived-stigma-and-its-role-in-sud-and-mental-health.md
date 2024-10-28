@@ -8,5 +8,4 @@ location: "National Institutes of Health Summer Student Poster Day 2022, Bethesd
 citation: 'Isman, K., Giorgi, S., Curtis, B. (2024) &quot;Communities at the Crossroads: Exploring Cultural Variations in Opioid Epidemic Outcomes&quot;'
 ---
 
-Poster presented at CPDD Annual Meeting 2024 and Johns Hopkins BPRU Trainee Poster Day 2024
-[View Poster](../files/cpdd.pdf)
+Poster presented at National Institutes of Health Summer Student Poster Day 2022, Bethesda, Maryland
