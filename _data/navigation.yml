@@ -8,12 +8,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Talks and Presentations"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
+
+  - title: "Volunteering and Community Engagement"
+    url: /volunteering/
     
   - title: "CV"
     url: /cv/
