@@ -9,4 +9,4 @@ location: "Middletown, Connecticut"
 ---
 
 Instructed weekly independent review sessions, assisted with weekly instruction, and provided academic support for students in Spanish for High Beginners.
----
+
