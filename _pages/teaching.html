@@ -1,9 +1,23 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Volunteering and Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
+<h1>Volunteering and Teaching</h1>
+<ul>
+  {% for teaching in site.teaching %}
+    <li>
+      <h2><a href="{{ teaching.url }}">{{ teaching.title }}</a></h2>
+      <p><strong>Organization:</strong> {{ teaching.organization }}</p>
+      <p><strong>Role:</strong> {{ teaching.role }}</p>
+      <p><strong>Date:</strong> {{ teaching.date | date: "%B %Y" }}</p>
+      <p><strong>Location:</strong> {{ teaching.location }}</p>
+      <p><strong>Description:</strong> {{ teaching.description }}</p>
+    </li>
+  {% endfor %}
+</ul>
 
 {% include base_path %}
 
