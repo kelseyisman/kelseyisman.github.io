@@ -11,27 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A. in Psychology, Neuroscience & Behavior, and Hispanic Literature and Culture, Wesleyan University, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2023 - Present: Intramural Research Training Award (IRTA) Postbaccalaureate Fellow
+  * National Institute on Drug Abuse
+  * Duties includes: 
+  * Supervisor: Brenda Curtis, PhD., MSPH, & Salvatore Giorgi, PhD.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
