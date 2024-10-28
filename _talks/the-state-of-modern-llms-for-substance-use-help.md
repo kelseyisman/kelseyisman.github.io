@@ -6,5 +6,4 @@ citation: 'Aich, A., Giorgi, S., Isman, K., Fried, Z., Liu, T., Sedoc, J., Curti
 layout: talk
 ---
 
-Poster presented by Ankit Aich at the 10th International Conference on Computational Social Scienc
----
+Poster presented by Ankit Aich at the 10th International Conference on Computational Social Science
