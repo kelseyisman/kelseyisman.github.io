@@ -9,5 +9,6 @@ citation: 'Isman, K., Giorgi, S., Ellis, J., Huhn, A., Liu, T., Curtis, B. (2023
 layout: talk
 ---
 
-Keynote talk at the 2023 National Institutes of Health Stigma Scientific Interest Group Annual Symposium [View Slides](../files/stigma-sig.pdf)
+Keynote talk at the 2023 National Institutes of Health Stigma Scientific Interest Group Annual Symposium 
+[View Slides](../files/stigma-sig.pdf)
 ---
