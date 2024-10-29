@@ -191,7 +191,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  volunteering:
+  portfolio:
     output: true
     permalink: /:collection/:path/
 
