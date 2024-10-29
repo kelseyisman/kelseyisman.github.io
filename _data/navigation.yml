@@ -9,10 +9,7 @@ main:
     url: /publications/
 
   - title: "Talks and Presentations"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /talks/       
 
   - title: "Volunteering and Community Engagement"
     url: /volunteering/
