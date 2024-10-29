@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-[Link to View my CV](../files/CV_10_28.pdf)
+[Link to View my CV](../files/CV_10_29.pdf)
