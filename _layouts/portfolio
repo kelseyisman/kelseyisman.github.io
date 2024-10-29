@@ -1,0 +1,16 @@
+---
+layout: default
+title: "Volunteering and Community Engagement"
+---
+
+<h1>{{ page.title }}</h1>
+
+<div class="portfolio-items">
+  {% for item in site.portfolio %}
+    <div class="portfolio-item">
+      <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+      <p>{{ item.excerpt }}</p>
+      <a href="{{ item.url }}">Read More</a>
+    </div>
+  {% endfor %}
+</div>
