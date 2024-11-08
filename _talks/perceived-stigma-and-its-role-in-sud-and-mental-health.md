@@ -8,4 +8,4 @@ location: "National Institutes of Health Summer Student Poster Day 2022, Bethesd
 citation: 'Isman, K., Giorgi, S., Curtis, B. (2024) &quot;Communities at the Crossroads: Exploring Cultural Variations in Opioid Epidemic Outcomes&quot;'
 ---
 
-Poster presented at National Institutes of Health Summer Student Poster Day 2022, Bethesda, Maryland [View Poster](files/posters/isman2022poster.pdf)
+Poster presented at National Institutes of Health Summer Student Poster Day 2022, Bethesda, Maryland [View Poster](..files/posters/isman2022poster.pdf)
