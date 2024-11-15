@@ -8,4 +8,4 @@ location: "Howard University International Conference on Stigma, Washington, D.C
 citation: 'Isman, K., Giorgi, S., Curtis, B. (2022) &quot;Perceptions Matter: Stigma, Mental Health, and Drug Treatment Outcomes&quot;'
 ---
 
-Poster presented at the Howard University International Conference on Stigma View Poster
+Poster presented at the Howard University International Conference on Stigma
