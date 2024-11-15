@@ -11,4 +11,4 @@ citation: 'Isman, K., Giorgi, S., Curtis, B. (2024) &quot;Communities at the Cro
 ---
 
 Poster presented at CPDD Annual Meeting 2024 and Johns Hopkins BPRU Trainee Poster Day 2024
-[View Poster](../files/cpdd.pdf)
+[View Poster](../files/posters/cpdd.pdf)
