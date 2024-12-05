@@ -2,7 +2,7 @@
 title: "Vernacular? I Barely Know Her: Challenges with Style Control and Stereotyping"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-06-18-vernacular-i-barely-know-her-challenges-with-style-cotnrol-and-stereotyping
+permalink: /publication/2024-06-18-vernacular-i-barely-know-her-challenges-with-style-cotnrol-and-stereotyping.md
 date: 2024-06-18
 venue: 'arXiv Preprint'
 paperurl: 'https://arxiv.org/abs/2406.12679'
