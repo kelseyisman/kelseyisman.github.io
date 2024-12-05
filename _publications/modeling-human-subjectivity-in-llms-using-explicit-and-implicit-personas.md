@@ -2,7 +2,7 @@
 title: "Modeling Human Subjectivity in LLMs Using Explicit and Implicit Personas"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-10-17-modeling-human-subjectivity-in-llms-using-explicit-and-implicit-personas
+permalink: /publication/2024-10-17-modeling-human-subjectivity-in-llms-using-explicit-and-implicit-personas.md
 date: 2024-10-17
 venue: 'Findings of the 2024 Conference on Empirical Methods in Natural Language Processing'
 paperurl: 'https://arxiv.org/abs/2406.14462'
