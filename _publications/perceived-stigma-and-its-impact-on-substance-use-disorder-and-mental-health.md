@@ -2,7 +2,7 @@
 title: "Perceived Stigma and its Impact on Substance Use Disorder and Mental Health"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-08-21-perceived-stigma-and-its-impact-on-substance-use-disorder-and-mental-health
+permalink: /publication/2024-08-21-perceived-stigma-and-its-impact-on-substance-use-disorder-and-mental-health.md
 date: 2024-08-21
 venue: 'PsyArXiv Preprints'
 paperurl: 'https://osf.io/preprints/psyarxiv/8am9g'
