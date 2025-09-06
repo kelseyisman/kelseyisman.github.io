@@ -8,4 +8,4 @@ venue: 'Findings of 2024 EMNLP'
 citation: 'Giorgi, S., Liu, T., Aich, A., Isman, K., Sherman, G., Fried, Z., Sedoc, J., Ungar, L., Curtis, B. (2024). &quot;Modeling Human Subjectivity in LLMs Using Explicit and Implicit Human Factors in Personas&quot; <i>Findings of 2024 EMNLP</i>.'
 ---
 
-[Download from Publisher](https://aclanthology.org/2024.findings-emnlp.420/)[Download PDF](/files/publications/giorgi2024modeling.pdf)
+[Download from Publisher](https://aclanthology.org/2024.findings-emnlp.420/)  [Download PDF](/files/publications/giorgi2024modeling.pdf)
